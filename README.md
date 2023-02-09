@@ -28,4 +28,4 @@ REACT_APP_FIREBASE_MEASUREMENT_ID =
 *Review:
 ![image](https://user-images.githubusercontent.com/57611937/217857166-017375c5-3248-4f7d-8c50-f0eb114a0d5c.png)
 *Mã nguồn được nâng cấp từ: https://github.com/Chaisser/firebase-file-manager
-(Thêm upload progress bar và sửa lỗi không thể scroll trong mục hiển thị tệp tin)
+(Thêm upload progress và sửa lỗi không thể scroll trong mục hiển thị tệp tin)
