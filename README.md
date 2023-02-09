@@ -15,7 +15,9 @@ npm start ( để check lỗi nếu có)
 npm run build
 *Khuyến khích dùng node v10.23.0 (nvm install/use 10.23.0) để run build không bị lỗi.
 *Config:
+
 -Tạo .env thư mục gốc
+
 REACT_APP_FIREBASE_API_KEY = "api key"
 REACT_APP_FIREBASE_AUTH_DOMAIN = 
 REACT_APP_FIREBASE_DATABASE_URL = 
