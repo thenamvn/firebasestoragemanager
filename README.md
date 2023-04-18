@@ -46,3 +46,4 @@ REACT_APP_FIREBASE_MEASUREMENT_ID =
 ![image](https://user-images.githubusercontent.com/57611937/217857166-017375c5-3248-4f7d-8c50-f0eb114a0d5c.png)
 
 Nâng cấp và chữa lỗi từ mã nguồn của 1 thằng mẽo ất ơ nào đấy.Má nó code quả đần vl có cái file explorer thì không scroll được.upload file thì không có hiện tình trạng tải lên
+Origin : https://github.com/Chaisser/firebase-file-manager
